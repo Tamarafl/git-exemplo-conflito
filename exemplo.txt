@@ -3,4 +3,7 @@ Adicionando linha 2
 Adicionando linha 3
 Testando o merge no vs code na main
 Consegui enviar as mudanças, agora vou baixá-las no meu repositório local e testar um outro merge.
-Já alterei o mesmo arquivo na segunda branch, agora etsou alterando na main do vs code e pretendo enviar para o repositório remoto.
+Já alterei o mesmo arquivo na segunda branch, agora estou alterando na main do vs code e pretendo enviar para o repositório remoto.
+Adicionando mais uma linha só para mergear com o vs code
+Agora vamos testar novamente o merge no vs code já que ele bugou antes.
+
