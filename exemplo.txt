@@ -2,3 +2,4 @@ Só para teste de conflito
 Adicionando linha 2
 Adicionando linha 3
 Adicionando mais uma linha só para mergear com o vs code
+Agora vamos testar novamente o merge no vs code já que ele bugou antes.
