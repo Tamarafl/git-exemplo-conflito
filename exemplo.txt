@@ -2,3 +2,4 @@ Só para teste de conflito
 Adicionando linha 2
 Adicionando linha 3
 Testando o merge no vs code na main
+Consegui enviar as mudanças, agora vou baixá-las no meu repositório local e testar um outro merge.
