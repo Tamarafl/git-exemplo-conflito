@@ -1,3 +1,4 @@
 Só para teste de conflito
 Adicionando linha 2
 Adicionando linha 3
+Testando o merge no vs code na main
