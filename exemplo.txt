@@ -1,2 +1,3 @@
 Só para teste de conflito
 Adicionando linha 2
+Adicionando linha 3
